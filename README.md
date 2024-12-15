@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! I'm Victor Santana
 
-<!--
-**vrsp05/vrsp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an international Computer Engineering student at BYU-Idaho with a passion for:
+- Space exploration
+- Automation technologies
+- Programming and hardware design
 
-Here are some ideas to get you started:
+### Skills
+- **Languages:** Python, C, C#, JavaScript, HTML
+- **Hardware:** Arduino, System Verilog, Raspberry Pi, Oscilloscopes, Logisim Evolution
+- **Interests:** Embedded systems, automation, digital design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Highlights
+- Studying Computer Engineering with a 4.0 GPA
+- Awarded a full-year scholarship for academic excellence
+- International student from the Dominican Republic
+
+### Let’s Connect!
+- LinkedIn: [Victor Santana](www.linkedin.com/in/victorrafaelsantana)
+- Email: victorrafaelsantana@hotmail.es
+
