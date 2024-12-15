@@ -6,8 +6,8 @@ I’m an international Computer Engineering student at BYU-Idaho with a passion 
 - Programming and hardware design
 
 ### Skills
-- **Languages:** Python, C, C#, JavaScript, HTML
-- **Hardware:** Arduino, System Verilog, Raspberry Pi, Oscilloscopes, Logisim Evolution
+- **Languages:** Python, C, C#
+- **Hardware:** Arduino, System Verilog, Logisim Evolution
 - **Interests:** Embedded systems, automation, digital design
 
 ### Current Highlights
