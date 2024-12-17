@@ -19,3 +19,8 @@ I’m an international Computer Engineering student at BYU-Idaho with a passion 
 - LinkedIn: [Victor Santana](www.linkedin.com/in/victorrafaelsantana)
 - Email: victorrafaelsantana@hotmail.es
 
+### GitHub Stats
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrsp05&show_icons=true&theme=tokyonight)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=tokyonight)
