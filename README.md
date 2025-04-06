@@ -4,10 +4,11 @@ I’m an international Computer Engineering student at BYU-Idaho with a passion 
 - Space exploration
 - Automation technologies
 - Programming and hardware design
+- Power and Electrical
 
 ### Skills
-- **Languages:** Python, C, C#
-- **Hardware:** Arduino, System Verilog, Logisim Evolution
+- **Languages:** Python, C, C#, C++
+- **Hardware:** Arduino, Logisim Evolution, STM32 NUCLEO
 - **Interests:** Embedded systems, automation, digital design
 
 ### Current Highlights
@@ -24,10 +25,3 @@ I’m an international Computer Engineering student at BYU-Idaho with a passion 
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=tokyonight)
-README updated on Thu Apr  3 00:41:50 UTC 2025
-README updated on Thu Apr  3 12:16:14 UTC 2025
-README updated on Fri Apr  4 00:41:50 UTC 2025
-README updated on Fri Apr  4 12:15:56 UTC 2025
-README updated on Sat Apr  5 00:41:12 UTC 2025
-README updated on Sat Apr  5 12:14:02 UTC 2025
-README updated on Sun Apr  6 00:45:27 UTC 2025
