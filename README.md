@@ -25,13 +25,3 @@ I’m an Computer Engineering student at BYU-Idaho with a passion for:
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=tokyonight)
-README updated on Thu Jan 22 00:51:06 UTC 2026
-README updated on Thu Jan 22 12:22:44 UTC 2026
-README updated on Fri Jan 23 00:52:29 UTC 2026
-README updated on Fri Jan 23 12:21:33 UTC 2026
-README updated on Sat Jan 24 00:50:10 UTC 2026
-README updated on Sat Jan 24 12:17:45 UTC 2026
-README updated on Sun Jan 25 00:57:22 UTC 2026
-README updated on Sun Jan 25 12:18:54 UTC 2026
-README updated on Mon Jan 26 00:56:14 UTC 2026
-README updated on Mon Jan 26 12:22:13 UTC 2026
