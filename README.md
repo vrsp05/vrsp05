@@ -20,20 +20,5 @@ I’m an Computer Engineering student at BYU-Idaho with a passion for:
 - LinkedIn: [Victor Santana](www.linkedin.com/in/victorrafaelsantana)
 - Email: victorrafaelsantana@hotmail.es
 
-### GitHub Stats
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrsp05&show_icons=true&theme=tokyonight)
-
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=tokyonight)
-README updated on Tue Jan 27 00:54:49 UTC 2026
-README updated on Tue Jan 27 12:21:58 UTC 2026
-README updated on Wed Jan 28 00:52:21 UTC 2026
-README updated on Wed Jan 28 12:22:56 UTC 2026
-README updated on Thu Jan 29 00:59:21 UTC 2026
-README updated on Thu Jan 29 12:28:07 UTC 2026
-README updated on Fri Jan 30 00:59:40 UTC 2026
-README updated on Fri Jan 30 12:27:34 UTC 2026
-README updated on Sat Jan 31 00:57:12 UTC 2026
-README updated on Sat Jan 31 12:20:32 UTC 2026
-README updated on Sun Feb  1 01:10:10 UTC 2026
-README updated on Sun Feb  1 12:21:57 UTC 2026
