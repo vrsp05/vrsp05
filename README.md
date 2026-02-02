@@ -19,8 +19,3 @@ I’m an Computer Engineering student at BYU-Idaho with a passion for:
 ### Let’s Connect!
 - LinkedIn: [Victor Santana](www.linkedin.com/in/victorrafaelsantana)
 - Email: victorrafaelsantana@hotmail.es
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=tokyonight)
-README updated on Mon Feb  2 01:03:25 UTC 2026
-README updated on Mon Feb  2 12:30:01 UTC 2026
