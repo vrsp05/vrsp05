@@ -6,7 +6,7 @@ I am a **Computer Engineering** student at **Brigham Young University - Idaho** 
 
 - **Current Focus:** Building robust backends and real-time monitoring systems.
 - **Goals:** Secure an internship in **firmware development**, **controls**, or **aerospace/nuclear** automation.
-- [**IEEE Leadership:** As Vice Chair, I manage multi-disciplinary teams and lead workshops in **KiCad PCB design**, **Arduino**, and **soldering**.
+- **IEEE Leadership:** As Vice Chair, I manage multi-disciplinary teams and lead workshops in **KiCad PCB design**, **Arduino**, and **soldering**.
 - **Industry Engagement:** I organize professional site tours to facilities like **Micron**, **Idaho Falls Power**, and **Curtiss-Wright**.
 - **Interests:** Outside of the lab, I enjoy **retro gaming** (specifically the GameCube), sports, and reading.
 
@@ -25,7 +25,7 @@ I am a **Computer Engineering** student at **Brigham Young University - Idaho** 
 ### Engineering & Hardware
 - **Embedded & Design:** Arduino, STM32 (IDE & MX), KiCad (PCB Layout), LTSpice, Logisim Evolution.
 - **Lab Equipment:** Oscilloscopes, Function Generators, Digital Multimeters, Soldering.
-- **Platforms:** Git/GitHub, VS Code, Node.js, PostgreSQL.
+- **Tools & Platforms:** Git/GitHub, VS Code, Node.js, PostgreSQL.
 
 ## Featured Projects
 
