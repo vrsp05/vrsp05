@@ -29,9 +29,9 @@ I am a **Computer Engineering** student at **Brigham Young University - Idaho** 
 
 ## Featured Projects
 
-- **[AI Job Coach Platform](https://github.com/vrsp05)**: Constructing a **Node.js/PostgreSQL** backend with Row Level Security (RLS) and operate triggers to ensure 100% data isolation.
-- **[Tinaco Smart Water Level Monitor](https://github.com/vrsp05)**: Designed an **Arduino** and **C++** ultrasonic monitoring system for real-time water tracking via I2C LCD.
-- **[Launch Vehicle Logistics Simulator](https://github.com/vrsp05)**: Created a **Java-based** mission validation tool featuring a State Machine Parser for complex rocket-to-satellite relationships.
+- **[AI Job Coach Platform](https://github.com/vrsp05/CSE-310-Team-7-Project)**: Constructing a **Node.js/PostgreSQL** backend with Row Level Security (RLS) and operate triggers to ensure 100% data isolation.
+- **[Tinaco Smart Water Level Monitor](https://github.com/vrsp05/Tinaco-Smart-Water-Level-Monitor)**: Designed an **Arduino** and **C++** ultrasonic monitoring system for real-time water tracking via I2C LCD.
+- **[Launch Vehicle Logistics Simulator](https://github.com/vrsp05/Orbit-Mission-Planner)**: Created a **Java-based** mission validation tool featuring a State Machine Parser for complex rocket-to-satellite relationships.
 
 ## Let's Connect!
 
