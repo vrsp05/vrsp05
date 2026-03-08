@@ -36,15 +36,21 @@ I am a **Computer Engineering** student at **Brigham Young University - Idaho** 
 - **[Tinaco Smart Water Level Monitor](https://github.com/vrsp05/Tinaco-Smart-Water-Level-Monitor)**: Designed an **Arduino** and **C++** ultrasonic monitoring system for real-time water tracking via I2C LCD.
 - **[Launch Vehicle Logistics Simulator](https://github.com/vrsp05/Orbit-Mission-Planner)**: Created a **Java-based** mission validation tool featuring a State Machine Parser for complex rocket-to-satellite relationships.
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrsp05&show_icons=true&theme=radical&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vrsp05&show_icons=true&theme=radical&count_private=true" alt="Victor's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=radical&langs_count=8)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vrsp05&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vrsp05&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrsp05&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorrafaelsantana/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vrsp05.github.io/)
